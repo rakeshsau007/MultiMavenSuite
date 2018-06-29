@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: CoreBuisnessEngine
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rakessah
+Implementation-Vendor-Id: com.sm
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/CreativeSuit
+ eManager/CoreBuisnessEngine/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
